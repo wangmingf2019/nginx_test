@@ -323,3 +323,7 @@ metrics:
     ##
     # selector:
     #   prometheus: my-prometheus
+
+kyma:
+  apiv1:
+    enabled: true
