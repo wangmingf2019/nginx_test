@@ -326,4 +326,4 @@ metrics:
 
 kyma:
   apiv1:
-    enabled: true
+    enabled: false
